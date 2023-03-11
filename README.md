@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperengokbak&label=Profile%20views&color=0e75b6&style=flat" alt="alperengokbak" /> </p>
 
-- 🔭 I’m currently working on [PythonWithSelenium]((https://github.com/alperengokbak/PythonWithSelenium))
+- 🔭 I’m currently working on [PythonWithSelenium](https://github.com/alperengokbak/PythonWithSelenium)
 
 - 🌱 I’m currently learning **Python**
 
