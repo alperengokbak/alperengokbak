@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Java Bootcamp](https://github.com/alperengokbak/Kodlama.io-Java2022)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [https://medium.com/@swalperen3008](https://medium.com/@swalperen3008)
 
-- 💬 Ask me about **Java And C/C++**
+- 💬 Ask me about **Java And Python**
 
 - ⚡ Fun fact **I'm love sport, and at the same time doing something for myself.**
 
