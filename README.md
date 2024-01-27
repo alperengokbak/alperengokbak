@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alperengokbak&label=Profile%20views&color=0e75b6&style=flat" alt="alperengokbak" /> </p>
 
-- 🔭 I’m currently working on [PythonWithSelenium](https://github.com/alperengokbak/PythonWithSelenium)
+- 🔭 I’m currently working on Javascript and React proejcts
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Javascript**
 
 - 📝 I regularly write articles on [https://medium.com/@swalperen3008](https://medium.com/@swalperen3008)
 
-- 💬 Ask me about **Java And Python**
+- 💬 Ask me about **Javascript and Python**
 
 - ⚡ Fun fact **I'm love sport, and at the same time doing something for myself.**
 
@@ -27,7 +27,7 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alperenSE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperenSE" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/alperenSE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperenSE" /></a></p><br><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperengokbak&show_icons=true&locale=en&layout=compact" alt="alperengokbak" /></p>
 
