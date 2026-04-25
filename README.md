@@ -1,36 +1,87 @@
-<h1 align="center">Hi 👋, I'm Alperen!</h1>
-<h3 align="center">A Student Software Engineering From Turkey.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alperengokbak&label=Profile%20views&color=0e75b6&style=flat" alt="alperengokbak" /> </p>
+# Alperen Gökbak
 
-- 🔭 I’m currently working on Javascript and React proejcts
+### DevOps Engineer · Cloud & Infrastructure
 
-- 🌱 I’m currently learning **Javascript**
+<img src="https://komarev.com/ghpvc/?username=alperengokbak&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
-- 📝 I regularly write articles on [https://medium.com/@swalperen3008](https://medium.com/@swalperen3008)
+</div>
 
-- 💬 Ask me about **Javascript and Python**
+---
 
-- ⚡ Fun fact **I'm love sport, and at the same time doing something for myself.**
+### About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@alperengokbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@alperengokbak" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alperen-gökbak-68988a225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alperen-gökbak-68988a225" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17566207/alperen-gökbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17566207/alperen-gökbak" height="30" width="40" /></a>
-<a href="https://instagram.com/alperengokbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperengokbak" height="30" width="40" /></a>
-<a href="https://medium.com/@swalperen3008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swalperen3008" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alperengokbak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperengokbak" height="30" width="40" /></a>
+DevOps Engineer at **P3**, designing and shipping cloud infrastructure on **Azure** with **Bicep**, **Terraform**, and **Azure DevOps** pipelines — from PostgreSQL Flexible Servers and Key Vaults to Kubernetes deployments and multi-stage CI/CD. Background spans cloud architecture (AWS DNS migrations, BGP, Route53), Azure administration (Intune, Entra ID), and full-stack development (Node.js / React).
+
+I write about what I learn on [Medium](https://alperengokbak.medium.com/), and I'm always open to collaborating on interesting infrastructure or platform-engineering problems.
+
+---
+
+### Tech Stack
+
+**Cloud & Infrastructure**
+
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure Bicep](https://img.shields.io/badge/Bicep-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+
+**Containers & Orchestration**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+**Languages & Frameworks**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+**Data & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### Certifications
+
+![AZ-305](https://img.shields.io/badge/AZ--305%20Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104%20Azure%20Administrator%20Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-900](https://img.shields.io/badge/AZ--900%20Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alperengokbak&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperengokbak&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=alperengokbak&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alperenSE"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alperenSE" /></a></p><br><br><br>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alperengokbak&show_icons=true&locale=en&layout=compact" alt="alperengokbak" /></p>
+### Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alperengokbak&show_icons=true&locale=en" alt="alperengokbak" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alperen-g%C3%B6kbak-68988a225)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://alperengokbak.medium.com/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/alperengokbak)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17566207/alperen-g%C3%B6kbak)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/alperengokbak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alperengokbak)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alperengokbak&" alt="alperengokbak" /></p>
+---
+
+<a href="https://www.buymeacoffee.com/alperenSE"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" /></a>
